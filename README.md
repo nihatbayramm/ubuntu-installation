@@ -1,6 +1,4 @@
-# ubuntu-installation
-We will explain the Ubuntu installation with pictures.
-
+( Ubuntu kurulumundan sonra terminalde işinize yarayacak komutlarını https://aktif.net/linux-komutlari/ sitesinden ulaşabilirsiniz . )
 
 İhtiyacınız olacaklar:
 

@@ -1,4 +1,4 @@
-( Ubuntu kurulumundan sonra terminalde işinize yarayacak komutlarını https://aktif.net/linux-komutlari/ sitesinden ulaşabilirsiniz . )
+( Ubuntu kurulumundan sonra terminalde işinize yarayacak komutları https://aktif.net/linux-komutlari/ sitesinden ulaşabilirsiniz . )
 
 İhtiyacınız olacaklar:
 

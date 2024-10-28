@@ -1,5 +1,7 @@
 ( Ubuntu kurulumundan sonra terminalde işinize yarayacak komutları https://aktif.net/linux-komutlari/ sitesinden ulaşabilirsiniz . )
 
+(Youtube link : https://youtu.be/EfgswHooT9c?si=b44oKeVXjeZo0TLC )
+
 İhtiyacınız olacaklar:
 
 *4 GB veya daha büyük bir USB bellek/flaş sürücü
